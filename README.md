@@ -1,1 +1,0 @@
-# sql_programming_basics
